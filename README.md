@@ -1,4 +1,4 @@
 ### Hai, nama saya Reza Maulana Alfitra 👋  
 Saat ini saya aktif sebagi mahasiswa Teknik Informatika di UIN Sunan Kalijaga. Saya tertarik pada hal-hal berbau teknologi, khususnya pada *Cloud Computing* dan *Web Development* khususnya bagian backend. 
 
-Saya mempunya beberapa skill terkait Web Developerment seperti *PHP* dengan frameworknya *Laravel* dan *Javascript* dengan *VueJs* nya. Saya sering membuat proyek kecil-kecilan untuk menyelesaikan masalah disekitar saya dengan kemampuan yang saya miliki. Seperti terakhir kali saya mencoba membuat mini manajemen kontrakan, *[BayarIns](bayarins.urisuzy.com/)*.
+Saya mempunya beberapa skill terkait Web Developement seperti PHP, Javascript, TypeScript (sedang meraba-raba), Database SQL MySQL, dan NoSQL MongoDB, juga dengan frameworknya seperti Laravel, VueJs, dan NestJs (sedang meraba-raba). Saya sering membuat proyek kecil-kecilan untuk menyelesaikan masalah disekitar saya dengan kemampuan yang saya miliki. Seperti terakhir kali saya mencoba membuat mini manajemen kontrakan yang saya tinggali, *[BayarIns](bayarins.urisuzy.com/)*.
